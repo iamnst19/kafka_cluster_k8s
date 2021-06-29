@@ -1,6 +1,6 @@
 # kafka_cluster_k8s
 
-## Steps to create the cluster
+## Steps to create the Kafka_Cluster
 
 ### Create Namespace:
 ```kubectl apply -f namespace.yml```
